@@ -4,6 +4,7 @@
 **Unidad:** 07 — Empaquetado y distribución de aplicaciones  
 **Cristina García Quintero**
 **Fecha:** _03/05/2026_
+**[Enlace al proyecto completo:](https://github.com/little-shiny/DI07)**
 
 ---
 
