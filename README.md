@@ -124,7 +124,7 @@ FInalmente al acabar la instalación del programa, podemos ver como se ha creado
 
 ![alt text](img/carpeta_final.png)
 
-_[enlace al instalador en el repositorio](https://github.com/little-shiny/DI07/releases/tag/1.0)_
+_[Enlace al instalador en el repositorio](https://github.com/little-shiny/DI07/releases/tag/1.0)_
 
 ---
 
