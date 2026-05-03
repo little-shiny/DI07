@@ -60,6 +60,8 @@ java -jar Tarea_U07.jar
 
 Como se observa se puede ejecutar sin ningún problema y muestra su interfaz gráfica.
 
+_[enlace al archivo `.jar` en el repositorio](https://github.com/little-shiny/DI07/blob/90ffbaf6784c1784830a90f0fe3fb41aa34aa2c5/installer/Fuentes_Tarea_U07.jar)_
+
 ---
 
 ## 4. Creación del instalador con NSIS
@@ -121,6 +123,8 @@ Se ejecuta el archivo `Tarea_U07_Setup.exe` generado. El asistente de instalaci�
 FInalmente al acabar la instalación del programa, podemos ver como se ha creado la carpeta con el programa en la ubicación escogida, con su asistente de desinstalación y las dependencias:
 
 ![alt text](img/carpeta_final.png)
+
+_[enlace al instalador en el repositorio](https://github.com/little-shiny/DI07/releases/tag/1.0)_
 
 ---
 
